@@ -2,7 +2,7 @@
 
 This is my personal portfolio website, created to showcase my skills, projects, learning journey, and experience as an aspiring software engineer.
 
- **Live Portfolio:** https://slindile16.github.io/slindile-portfolio/
+**Live Portfolio:** https://slindile16.github.io/Personal-Portfolio/
 
 The portfolio is designed with a clean and soft style and includes information about me, the technologies I work with, projects I have built, and ways to connect with me.
 
