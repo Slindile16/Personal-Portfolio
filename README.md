@@ -1,7 +1,8 @@
-Slindile's Portfolio
-
+# Slindile's Portfolio
 
 This is my personal portfolio website, created to showcase my skills, projects, learning journey, and experience as an aspiring software engineer.
+
+ **Live Portfolio:** https://slindile16.github.io/slindile-portfolio/
 
 The portfolio is designed with a clean and soft style and includes information about me, the technologies I work with, projects I have built, and ways to connect with me.
 
@@ -51,6 +52,7 @@ The portfolio includes:
 * GitHub and LinkedIn links
 * Personal profile photo
 * Clean and soft visual design
+* Deployed using GitHub Pages
 
 ## Purpose
 
@@ -68,13 +70,9 @@ To view the portfolio locally:
 
 1. Clone the repository:
 
-
-git clone <repository-url>
-
-
 2. Open the project folder.
 
-3. Open `index.html` in a web browser.
+3. In the terminal you run 'xdg-open index.html'
 
 No additional dependencies are required.
 
