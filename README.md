@@ -29,16 +29,21 @@ The website includes:
 * **Uno** — A Python-based Uno card game created as part of my software development studies.
 * **Robot Worlds** — A Java-based project involving robots, commands, APIs, testing, persistence, and a graphical interface.
 
-### Currently Working On
-
 * **BankFlow** — A data engineering project focused on collecting, processing, and working with financial data using Python and SQL.
 * **LogisticsConnect** — A systems integration project that connects different services using technologies such as Java, REST APIs, and messaging.
 
 ### Personal Practice Projects
 
+* **Mathembies Kitchen** — A mobile-friendly menu and ordering website built with HTML, CSS and JavaScript, allowing customers to browse items, customise their order, view totals and order through WhatsApp.
+
 * **Sudoku** — A project created to practise programming logic and problem solving.
 * **Tic Tac Toe** — A project created to practise conditional logic, user input, and game rules.
 * **Rock Paper Scissors** — A project created to practise basic programming logic and user input.
+
+### Currently Working On
+
+* **[Piggy-Bank](https://github.com/Slindile16/Piggy-Bank)** — A mobile app currently in development using React Native and Expo, with a Node.js and Express backend and a PostgreSQL database.
+* **[ShopLink](https://github.com/Slindile16/Shoplink-integration-system)** — An online store integration system currently in development, connecting order, inventory and payment services using Java, Maven, REST APIs, JSON and ActiveMQ/JMS messaging.
 
 ## Features
 
